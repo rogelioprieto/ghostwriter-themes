@@ -1,7 +1,7 @@
 ## My fav dark themes for Ghostwriter editor 
 This repository contains my favorite dark themes for [Ghostwriter editor](https://ghostwriter.kde.org/).
 
-- **Blue Constrast** Higly usable and highly optimized for reading comfort in both light and dark modes. 100% [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) AA compliant, the global standard for digital accesibility created by [W3C](https://www.w3.org/).
+- **Blue Constrast** Highly usable and highly optimized for reading comfort in both light and dark modes. 100% [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) AA compliant, the global standard for digital accesibility created by [W3C](https://www.w3.org/).
 - **Dracula** - [Offical Dracula website](https://draculatheme.com/ghostwriter)
 - **One Dark** - [GitHub](https://github.com/drigovz/one-dark-theme-ghostwriter/tree/main)
 - **Tomorrow night blue** - [GitHub](https://github.com/chriskempson/tomorrow-theme)
