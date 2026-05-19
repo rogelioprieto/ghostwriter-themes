@@ -11,7 +11,8 @@ After download files of GitHub, you will need to copy _.json_ file to config dir
 -   Windows: `C:\Users\<your_user_name_here>\AppData\Roaming\ghostwriter\themes\`
 -   Windows portable version: `<ghostwriter_portable_folder>\data\themes\`
 -   GNU/Linux: 
-    - Ubuntu `~/.config/ghostwriter/themes/`
+    - Ubuntu 24.04+ `~/.config/ghostwriter/themes/`
+    - Ubuntu older versions `~/.local/share/ghostwriter/themes/`
     - Fedora 43 using flakpak: `~/.var/app/org.kde.ghostwriter/data/ghostwriter/themes`
 -   macOS: `~/Library/Application Support/ghostwriter/themes/`
 
