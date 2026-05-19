@@ -25,11 +25,12 @@ project.run();
 ## Features
 - **Fast:** Renders in milliseconds.
 - **Cross-platform:** Works on Windows, macOS, and Linux.
-- **Customizable:** Easily tweak settings via the `config.json` file.
+- **Customizable:** Easily tweak settings via the `config.json`.
 
 ## Contributing
-We love pull requests! Please feel free to contribute to this open-source project.
+Please feel free to contribute to this open-source project.
 
 ### Badges
 ![Build Status](https://shields.io)
-![Version](https://shields.io)
+![Version](https://shields.io)  
+[Build Status](https://shields.io)
